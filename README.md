@@ -1,21 +1,19 @@
-## Так, это была очень сложная задача, именно поэтому:
+## Построение модели и анализ данных Dow Jones Index
 
-_тык на картинку_ 
+Построение модели и анализ данных, полученных из датасета "Dow Jones Index"
 
-[<img src="https://github.com/SherVonemes/git_NIS/blob/main/KiLUcC6Zc6k.jpg" width="200"/>](https://www.tinkoff.ru/rm/semenov.vladislav292/EnlNB87929)
-
-А теперь серьезно
+[Найти датасет можно тут](https://archive.ics.uci.edu/dataset/312/dow+jones+index)
 
 Структура проекта состоит из нескольких частей:
 - NIS.ipynb
 - NIS.pdf
 - NIS-tex
 
-#### NIS.ipynb
-Файл обновляется и комититься, пока мы делаем проект. Здесь происходит предобработка, анализ данных и т.д.
+#### [NIS.ipynb](https://github.com/Menako778/NIS_DJI/blob/main/NIS.ipynb)
+Файл содержит всю работу, связанную кодом, моделью и анализом данных.
 
-#### NIS.pdf
-Здесь объяснения всех шагов по анализу данных, от предобработки, до моделей. 
+#### [NIS.pdf](https://github.com/Menako778/NIS_DJI/blob/main/NIS_description.pdf)
+Файл содержит объяснение всех шагов по анализу данных, от предобработки, до моделей. 
 
-#### NIS-tex
-Папка с проектом в tex
+#### [NIS-tex](https://github.com/Menako778/NIS_DJI/blob/main/NIS-tex/main.tex)
+Папка с описание проекта в формате tex.
